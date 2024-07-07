@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sankurisamith/tic-tac-toe/static/css/main.d990e7b2.css",
+    "main.js": "/sankurisamith/tic-tac-toe/static/js/main.122a6a1c.js",
+    "static/js/787.393238a3.chunk.js": "/sankurisamith/tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "static/media/game_over.wav": "/sankurisamith/tic-tac-toe/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/sankurisamith/tic-tac-toe/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/sankurisamith/tic-tac-toe/index.html",
+    "main.d990e7b2.css.map": "/sankurisamith/tic-tac-toe/static/css/main.d990e7b2.css.map",
+    "main.122a6a1c.js.map": "/sankurisamith/tic-tac-toe/static/js/main.122a6a1c.js.map",
+    "787.393238a3.chunk.js.map": "/sankurisamith/tic-tac-toe/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d990e7b2.css",
+    "static/js/main.122a6a1c.js"
+  ]
+}
